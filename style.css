@@ -1,6 +1,14 @@
+div[title=”main”] {
+    background-color: lavender;
+    height: 300px;
+    display: grid;
+    place-items: center;
+
+}
+
 button {
     border: none;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
